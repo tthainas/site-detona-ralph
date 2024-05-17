@@ -1,0 +1,27 @@
+@import url(menu.css);
+@import url(banner.css);
+@import url(banda.css);
+@import url(tour.css);
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #87CEFA;
+}
+a
+{
+    text-decoration: none;
+}
+ul
+{
+    list-style-type: none;
+}
+main
+{
+    max-width: 1200px;
+    margin: auto;
+}
